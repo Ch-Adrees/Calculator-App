@@ -14,7 +14,7 @@ Division
 
 **Requirements:**
 
-.NET Framework (Version X.X.X)
+.NET Framework
 
 **Getting Started:**
 
